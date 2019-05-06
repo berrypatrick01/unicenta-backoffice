@@ -18,6 +18,13 @@
 
 ### If you have any suggestions or feature requests for this project, please email me at: berrypatrick94@gmail.com
 
+## Requirements:
+- A Webserver that will serve the pages
+- Remote Mysql Server connection (Information for how do to this can be found here: https://www.cyberciti.biz/tips/how-do-i-enable-remote-access-to-mysql-database-server.html)
+- Unicenta Connected to the MYSQL Database
+- Unicenta 4.4.2 Up (However i do have a version of this for versions before 4.4.2, this is available on request, Email me!)
+
+
 ## How do i install Unicenta Back-Office?
 
 ### To install, download and extract the zip file into your webservers 'WWW' Directory.
